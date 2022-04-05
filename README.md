@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @vrizas
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vrizasizza@gmail.com
+### 👋 Hi,
+ 
+I'm Vrizas from Indonesia, and I am a web developer. I really enjoy develop a website with framework like React, VueJS, and Laravel. 
 
-<!---
-vrizas/vrizas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrizas&show_icons=true&theme=dark)
