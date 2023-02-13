@@ -14,9 +14,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vrizas&style=flat-square&color=blue" alt=""/></p>
 
 # Hi there 👋, I'm Vrizas Izza Izzuddin
-## Full Stack Web Developer
+## Frontend Enthuasiast
 
-I'm Vrizas from Indonesia, and I am a web developer. I really enjoy develop a website with framework like React, VueJS, and Laravel.  
+I use various tools to create attractive application interfaces. I have skills in frontend development. I don't just make apps look good, but do it the right way.
 
 
 ### 📊 Statistics
@@ -36,6 +36,7 @@ I'm Vrizas from Indonesia, and I am a web developer. I really enjoy develop a we
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
