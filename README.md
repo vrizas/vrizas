@@ -14,7 +14,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vrizas&style=flat-square&color=blue" alt=""/></p>
 
 # Hi there 👋, I'm Vrizas Izza Izzuddin
-## Frontend Enthuasiast
+## Frontend Enthusiast
 
 I use various tools to create attractive application interfaces. I have skills in frontend development. I don't just make apps look good, but do it the right way.
 
